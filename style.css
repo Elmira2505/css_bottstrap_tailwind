@@ -25,5 +25,9 @@ main {
 .card img {
   width: 200px;
   height: 280px;
- 
+ margin-bottom: 10px;
+}
+.framework {
+  font-style: 12px;
+
 }
