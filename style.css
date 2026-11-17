@@ -22,6 +22,11 @@ main {
   gap: 25px;
 
 }
+p {
+  margin: 7px 0px;
+  padding: 0px 6px;
+
+}
 .card img {
   width: 200px;
   height: 280px;
@@ -29,5 +34,5 @@ main {
 }
 .framework {
   font-style: 12px;
-
 }
+
